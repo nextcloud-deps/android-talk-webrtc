@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.nextcloud-deps</groupId>
+  <artifactId>android-talk-webrtc</artifactId>
+  <version>110.5481.0</version>
+  <name>WebRTC for Android</name>
+  <description>A vanilla WebRTC build for Android</description>
+  <url>https://github.com/nextcloud-deps/android-talk-webrtc</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>LICENSE-APACHE</url>
+    </license>
+    <license>
+      <name>The MIT License</name>
+      <url>LICENSE-MIT</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>nextcloud</id>
+      <name>Nextcloud</name>
+      <email>android@nextcloud.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <url>https://github.com/nextcloud-deps/android-talk-webrtc</url>
+  </scm>
+</project>
